@@ -1,119 +1,115 @@
-<!-- 顶部动态光流线条 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua-neon.gif" width="100%">
+<!-- ========================================== -->
+<!-- LCARS HEADER / STARFLEET COMPUTING SYSTEMS -->
+<!-- ========================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2600&pause=800&color=2BF7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+SkyeAurora;Backend+Engineer+%7C+AI+Agent+Developer;Always+Exploring+Better+Ways+to+Build+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2400&pause=900&color=6AB4FF&center=true&vCenter=true&width=980&height=120&lines=SkyeAurora;Backend+Engineer+%7C+AI+Agent+Developer;LCARS+Interface+Online" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa083/master/cat-coding.gif" height="200" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:201A30,50:6A3BA1,100:F29D38&height=18&section=header"/>
 </p>
+
+<br />
+
+<!-- ========================================== -->
+<!-- LCARS PRIMARY PANELS                       -->
+<!-- ========================================== -->
+
+## <span style="color:#F29D38;">■</span> OPERATIONS MODULE  — _Primary Profile Node_
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sector-Backend_Engineering-6AB4FF?style=for-the-badge&logoColor=white&color=6A3BA1" />
+  <img src="https://img.shields.io/badge/Division-AI_Agent_Systems-F29D38?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Registry-SkyeAurora-201A30?style=for-the-badge&labelColor=6AB4FF" />
+</div>
 
 <p align="center">
-  <em style="color:#58ffff;">Writing maintainable systems. Automating workflows. Building reliable tools.</em>
+  <i style="color:#6AB4FF;">"Systems engineered with precision, clarity, and starship-grade reliability."</i>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.gif" width="100%">
+<br />
 
----
+<!-- ========================================== -->
+<!-- ENGINEERING PANEL                          -->
+<!-- ========================================== -->
 
-## 🧩 About Me
-
-我是一名偏后端方向的开发者，喜欢做结构化的系统设计、自动化流程构建和工程效率提升。  
-最近涉及比较多：
-
-- AI Agents & Orchestration（多 Agent 任务调度）
-- 云端应用开发与服务整合
-- 分布式架构、异步流程、自动化工具开发
-- 轻量 DevOps / 容器化环境搭建
-- 个人项目与系统工程实践
-
-正在专注构建实际可落地的系统，而不是停留在概念上。
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.gif" width="100%">
-
-# ⚡ Skills & Tools
-
-> 简洁风介绍 + 动态展示技术能力（视觉效果强，但内容朴实）
-
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,go,js,ts&theme=dark" height="70"/>
-</p>
-
-### ☁ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,linux,nginx&theme=dark" height="70"/>
-</p>
-
-### 🗄 Databases & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" height="70"/>
-</p>
-
----
-
-## 🌐 Dynamic Skill Board
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,go,javascript,typescript&includeNames=true&theme=darkmode&density=high" />
-</p>
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=spring,fastapi,react&theme=darkmode&density=high" />
-</p>
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=docker,kubernetes,gcp,git,linux&theme=darkmode&density=high" />
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon-purple.gif" width="100%">
-
-# 📂 Selected Projects（简洁而专业）
+## <span style="color:#6A3BA1;">■</span> ENGINEERING CONTROL — _Core Technologies_
 
 <div align="center">
 
-<a href="#">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=SkyeAurora&repo=AI-Patching-Agent&theme=tokyonight&border_color=2BF7FF&bg_color=000000&title_color=2BF7FF" />
-</a>
+<table width="85%">
+<tr>
+<td align="center">
 
-<a href="#">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=SkyeAurora&repo=Campus-Microservice-Platform&theme=tokyonight&border_color=B462FF&bg_color=000000&title_color=B462FF" />
-</a>
+### <span style="color:#F29D38;">Backend Systems</span>
+`Java` • `Spring Boot` • `MyBatis`  
+`Docker` • `Kubernetes` • `gRPC`  
 
-<a href="#">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=SkyeAurora&repo=Crypto-Market-Dashboard&theme=tokyonight&border_color=FF77B6&bg_color=000000&title_color=FF77B6" />
-</a>
+</td>
+<td align="center">
+
+### <span style="color:#6AB4FF;">AI / Agents</span>
+`Google ADK` • `Gemini`  
+`LangChain` • `Vector Stores`  
+
+</td>
+<td align="center">
+
+### <span style="color:#F29D38;">Federation Toolchain</span>
+`PostgreSQL` • `Redis` • `Nginx`  
+`GitHub Actions` • `Cloud Run`  
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.gif" width="100%">
+<!-- ========================================== -->
+<!-- DIAGNOSTICS PANEL                          -->
+<!-- ========================================== -->
 
-# 📊 GitHub Stats
+## <span style="color:#F29D38;">■</span> DIAGNOSTICS — _Activity Telemetry_
+
+<div align="center">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=SkyeAurora&show_icons=true&theme=tokyonight&hide_border=true&title_color=6AB4FF&icon_color=F29D38&text_color=C7DFFF&bg_color=000000" />
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeAurora&layout=compact&hide_border=true&theme=tokyonight&title_color=6AB4FF&text_color=C7DFFF&bg_color=000000" />
+
+</div>
+
+<br />
+
+<!-- ========================================== -->
+<!-- STARFLEET LINK MODULE                      -->
+<!-- ========================================== -->
+
+## <span style="color:#6AB4FF;">■</span> STARFLEET DATA CHANNELS — _Contact Links_
+
+<div align="center">
+  <a href="https://github.com/SkyeAurora">
+    <img src="https://img.shields.io/badge/GitHub-Fleet_Registry-6AB4FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Commlink-Encrypted-F29D38?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<!-- ========================================== -->
+<!-- LCARS FOOTER                               -->
+<!-- ========================================== -->
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SkyeAurora&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=2BF7FF" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=SkyeAurora&theme=tokyonight&background=00000000&border=2BF7FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F29D38,50:6A3BA1,100:201A30&height=18&section=footer"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=SkyeAurora&theme=react-dark&bg_color=000000&color=2BF7FF&line=B462FF&point=2BF7FF&area=true" />
-</p>
-
----
-
-# 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/SkyeAurora"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="55"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="55"/></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua-neon.gif" width="100%">
-
-<p align="center">
-  <em style="color:#7ffcff">Thanks for visiting — feel free to explore my repositories.</em>
+<p align="center" style="color:#6AB4FF;">
+  <sub>Starfleet LCARS System v2.3 — Sector 001 Deployment</sub>
 </p>
